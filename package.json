@@ -1,0 +1,15 @@
+{
+  "name": "library-management-system",
+  "version": "1.0.0",
+  "description": "my final year project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "library manaement system"
+  },
+  "author": "ijamy vincent",
+  "license": "ISC"
+}
